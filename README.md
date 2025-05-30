@@ -1,5 +1,6 @@
 # Apple-Stocks-Analysis
 Research based project on apple stocks analysis and prediction
+Given the presentation in the 9th International Conference on Smart Trends in Computing and Communications (SmartCom 2025)
 
 
 ## 🔍 Key Features
